@@ -9,7 +9,6 @@ A Node.js CLI application for managing todo tasks using JSON files.
 
 ```bash
 git clone https://github.com/Doni-githu/nodejs-task-CLI.git
-cd string-util-cli
 ```
 
 2. Install dependencies:
