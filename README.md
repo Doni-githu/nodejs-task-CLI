@@ -1,7 +1,7 @@
 # String Util CLI
 
 A Node.js CLI application for managing todo tasks using JSON files.
-
+I get it from this [project](https://roadmap.sh/projects/task-tracker) 
 
 ## Installation
 
@@ -65,5 +65,5 @@ npm run test
 ```
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the ISC License - see the LICENSE file for details.
 
